@@ -1,6 +1,6 @@
 # 自动登录 ECUT 校园网 For Windows
 
-- 使用 Windows Task Scheduler, 插上网线自动登录（远离那些为了登个校园网就 24h 不间断运行的 Python 脚本吧)
+- 使用 Windows Task Scheduler, 插上网线自动登录（远离那些为了登个校园网就 24h 不间断运行的 Python 脚本吧）
 - 只支持 Windows
 
 ## 使用方法

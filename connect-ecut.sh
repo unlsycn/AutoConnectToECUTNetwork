@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 
 target_host="172.21.255.105:801"
 user_account=""
